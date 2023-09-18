@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "876547691790",
+    "firebase_url": "https://androidnative-5d625-default-rtdb.firebaseio.com",
+    "project_id": "androidnative-5d625",
+    "storage_bucket": "androidnative-5d625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876547691790:android:bc3732f666a75211a0735f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Nnl1gAQNQpbD1_-Z77pmzHRCvhQXaPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876547691790:android:2bd0536f0957a6a7a0735f",
+        "android_client_info": {
+          "package_name": "com.jasim0021.blankscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Nnl1gAQNQpbD1_-Z77pmzHRCvhQXaPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">blankScreen</string>
+    <string name="device_admin_label">give permission for furture work</string>
+    <string name="device_admin_description">this app require device admin permission for some active feature</string>
+</resources>
