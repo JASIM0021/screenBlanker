@@ -14,7 +14,7 @@ public class MyDeviceAdminReceiver extends DeviceAdminReceiver {
         DevicePolicyManager devicePolicyManager = (DevicePolicyManager) context.getSystemService(Context.DEVICE_POLICY_SERVICE);
         ComponentName adminComponent = new ComponentName(context, MyDeviceAdminReceiver.class);
         // Prevent power off
-        devicePolicyManager.setCameraDisabled(adminComponent, true);
+//        devicePolicyManager.setCameraDisabled(adminComponent, true);
 
 
     }
